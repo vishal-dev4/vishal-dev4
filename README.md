@@ -1,3 +1,6 @@
+                                                               # Hi, I'm Vishal Chaudhary
+                                                               
+[![](https://visitcount.itsvg.in/api?id=vishal-dev4&icon=0&color=3)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🌱I'm currently learning 👨‍💻 Full Stack Web Development<br>🔭Join me on Linkedin Vishal Chaudhary<br>❓ Ask me about anything related to JavaScript <br>⚡Fun fact : I use tabs over spaces<br>🤝 How to reach me : ...vc4772845@gmail.com
 
@@ -28,6 +31,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishal-dev4&icon=0&color=3)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
