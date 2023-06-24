@@ -1,7 +1,27 @@
- #                                                                 Hi,(https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966) I'm Vishal Chaudhary
+<!-- # Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Vishal Chaudhary -->
+
+<div align="left">
+
+<!-- ## Aspiring MERN Developer -->
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vishal Chaudhary </h1>
+<h3 align="center">A Passionate Fullstack Developer</h3>
+
+<p align="center">
+<!--   <img src="https://www.rwit.io/wp-content/uploads/2020/08/web-development-new@2x.png" alt="" width="60%" height="20%"> -->
+  <img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="" width="60%" height="10%">
+</p>
+
+<p align="center" color:"red"> 
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My Name is Vishal Chaudhary 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+      </p> 
+  
+
+  <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
+
                                                                
 [![](https://visitcount.itsvg.in/api?id=vishal-dev4&icon=0&color=3)](https://visitcount.itsvg.in)
-# 💫 About Me:
+# 
 🌱I'm currently learning 👨‍💻 Full Stack Web Development<br>🔭Join me on Linkedin Vishal Chaudhary<br>❓ Ask me about anything related to JavaScript <br>⚡Fun fact : I use tabs over spaces<br>🤝 How to reach me : ...vc4772845@gmail.com
 
 
