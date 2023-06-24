@@ -16,10 +16,8 @@
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My Name is Vishal Chaudhary 🏽; I am a Full-Stack%20Web%20Developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
       </p> 
   
-
   <img width="100%" height="3px" src="https://www.animatedimages.org/data/media/562/animated-line-image-0387.gif">
-
-                                                               
+                                                          
 [![](https://visitcount.itsvg.in/api?id=vishal-dev4&icon=0&color=3)](https://visitcount.itsvg.in)
 # 
 🌱I'm currently learning 👨‍💻 Full Stack Web Development<br>🔭Join me on Linkedin Vishal Chaudhary<br>❓ Ask me about anything related to JavaScript <br>⚡Fun fact : I use tabs over spaces<br>🤝 How to reach me : ...vc4772845@gmail.com
