@@ -20,7 +20,7 @@
                                                           
 [![](https://visitcount.itsvg.in/api?id=vishal-dev4&icon=0&color=3)](https://visitcount.itsvg.in)
 # 
-🌱I'm currently learning 👨‍💻 Full Stack Web Development<br>🔭Join me on Linkedin Vishal Chaudhary<br>❓ Ask me about anything related to JavaScript <br>⚡Fun fact : I use tabs over spaces<br>🤝 How to reach me : ...vc4772845@gmail.com
+🌱I'm currently learning 👨‍💻 Full Stack Web Development<br>🔭Join me on Linkedin Vishal Chaudhary<br>❓ Ask me about anything related to JavaScript <br>⚡Fun fact : I use tabs over spaces<br>🤝 How to reach me : ...vc4772845@gmail.com<br> <img src='https://camo.githubusercontent.com/67d87ad2288c18b5b221bad9e550d1630feef3b1d520eee0944bd18818755660/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f333533362f333533363530352e706e67' height=15& width=15> Join Me On Linkedin <a href='https://www.linkedin.com/in/vishal-chaudhary-422054222/' target='_blank'>Vishal Chaudhary</a><br> 📁 My Portfolio <a href="https://vishal-dev4.github.io/Portfolio-website/" target="_blank">Portfolio</a>
 
 
 ## 🌐 Socials:
